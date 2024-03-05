@@ -1,0 +1,9 @@
+[submodule "API3-Front"]
+	path = API3-Front
+	url = https://github.com/Grupo-Syntax-Squad/API3-Front.git
+[submodule "API3-BancoDeDados"]
+	path = API3-BancoDeDados
+	url = https://github.com/Grupo-Syntax-Squad/API3-BancoDeDados.git
+[submodule "API3-Back"]
+	path = API3-Back
+	url = https://github.com/Grupo-Syntax-Squad/API3-Back.git
