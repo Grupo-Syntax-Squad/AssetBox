@@ -79,7 +79,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 ## 🌲Backlog do Produto
 <p align="center">
 <img src= "/documents/img/Product_backlog.png" width="600" alt="Backlog Total">
-<img src= "/documents/img/user_stories.png" alt="User Stories">
+
 <br>  
 
 ## 🌱Backlog da Sprint
@@ -94,7 +94,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ## 👥User Stories
 <p align="center">
-
+<img src= "/documents/img/user_stories.png" alt="User Stories">
 
 
 ## 👨‍💻**Autores** 
