@@ -53,7 +53,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
   
 ## 🏆**MVP**
 <p align="center">
-<img src= "/documents/img/" alt="MVP AssetBox">
+<img src= "/documents/img/mvp.png" alt="MVP AssetBox">
 <br>
   
 
@@ -78,12 +78,12 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
   
 ## 🌲Backlog do Produto
 <p align="center">
-<img src= "/documents/img/" alt="Backlog Total">
+<img src= "/documents/img/Product_backlog.png" alt="Backlog Total">
 <br>  
 
 ## 🌱Backlog da Sprint
 <p align="center">
-<img src= "/documents/img/" alt="Backlog Sprints">
+<img src= "/documents/img/Sprints_Backlog.png" alt="Backlog Sprints">
 <br>
 
 ## 🧱Modelo de Dados
