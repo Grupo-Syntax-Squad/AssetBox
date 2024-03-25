@@ -1,4 +1,4 @@
- <img src="/documents/img/assetboxlogogti.png" alt="logo da AssetBox">
+ <img src="/documents/img/assetboxlogogti.svg" alt="logo da AssetBox">
 <br>
   
 
