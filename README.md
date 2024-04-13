@@ -45,7 +45,6 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 <h4 align="left">
  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=JavaScript&logoColor=black" alt ='JavaScript'target="_blank"></a> <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt='REACT' target="_blank"></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt='MySQL' target="_blank"></a> <a href="https://nodejs.org/pt-br" target="_blank"><img src="https://img.shields.io/badge/-Node-57a746?style=for-the-badge&logo=nodedotjs&logoColor=black" alt='NodeJS' target="_blank"></a> <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt='Spring' target="_blank"></a> <a href="https://html.com/html5/" target="_blank"><img src="https://img.shields.io/badge/-HTML-e44d25?style=for-the-badge&logo=HTML5&logoColor=white" alt='HTML5' target="_blank"></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=CSS3&logoColor=white" alt='CSS3' target="_blank"></a> <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=white" target="_blank"></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-Visual Studio-%2384CE?style=for-the-badge&logo=Visual Studio Code&logoColor=white" target="_blank"></a> <a href="https://bulma.io/" target="_blank"><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" target="_blank"></a>
-  
 </h4>
 <br>
 
@@ -55,12 +54,6 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 <p align="center">
 <img src= "/documents/img/mvp.png" width="600" alt="MVP AssetBox" >
 <br>
-  
-
-
-<br>
-
-<br>
 
 <span id="sprints">
 
@@ -68,18 +61,17 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ### Sprint - 1️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-1?tab=readme-ov-file))  Em andamento🚧
 
-### Sprint - 2️⃣ 🎯 ([Clique aqui](/documents/sprints/sprint2))  Em andamento🚧
+### Sprint - 2️⃣ 🎯  🚧
 
-### Sprint - 3️⃣ 🎯 ([Clique aqui](/documents/sprints/sprint3))  Em andamento🚧
+### Sprint - 3️⃣ 🎯  🚧
 
-### Sprint - 4️⃣ 🎯 ([Clique aqui](/documents/sprints/sprint4))  Em andamento🚧
+### Sprint - 4️⃣ 🎯  🚧
 
 <span id="backlogArtefatos">
   
 ## 🌲Backlog do Produto
 <p align="center">
 <img src= "/documents/img/Product_backlog.png" width="600" alt="Backlog Total">
- 
 <br>
 
 ## 👥User Stories
