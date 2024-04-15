@@ -91,7 +91,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ## 📜 Tags de Commit
 <p align="center">
-<img src="/documents/img/padronizacaoCommits.png" alt="Padronização de Commits">
+<img src="/documents/img/padronizacaoCommits.png" width="600" alt="Padronização de Commits">
 <br>
 
 ## 👨‍💻**Autores** 
