@@ -89,6 +89,11 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 <img src="/documents/img/ModeloDeDados_AssetBox.png" alt="Modelo de Dados">
 <br>
 
+## 📜 Tags de Commit
+<p align="center">
+<img src="/documents/img/padronizacaoCommits.png" alt="Padronização de Commits">
+<br>
+
 ## 👨‍💻**Autores** 
 
 |      Nome      |    Função       |                            Github                             |                           Linkedin                           |
