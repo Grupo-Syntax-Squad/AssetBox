@@ -10,7 +10,9 @@
 **Status do Projeto: Em andamento🚧**
 <br>
 
-  
+## 📉Burndown
+![image](https://github.com/Grupo-Syntax-Squad/AssetBox/assets/125401155/df453773-44ed-4a6f-ae7d-b4d5f73df689)
+
 
 </br>
 
