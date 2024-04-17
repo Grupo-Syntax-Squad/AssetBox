@@ -29,3 +29,12 @@ O objetivo do projeto é facilitar para empresas a gestão de seus ativos, de mo
 
 ### 🔗 Protótipo Navegável :
 [Clique para visualizar o protótipo](https://www.figma.com/proto/eGe8zMw9xe4VLLWUsdc2Mr/API-3-Semestre?type=design&node-id=8-95&t=GOvfKEf4d4pitxAq-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A95&disable-default-keyboard-nav=1&hotspot-hints=0&hide-ui=1)
+
+<br>
+
+### 🎥 Apresentação do Projeto :
+<div align="center">
+  
+  https://github.com/Grupo-Syntax-Squad/AssetBox/assets/125401155/1a9adf25-71d0-45a7-8e1b-cb4b9fe41e4d
+  
+</div>
