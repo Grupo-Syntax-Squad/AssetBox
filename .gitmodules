@@ -1,6 +1,8 @@
 [submodule "API3-Front"]
 	path = API3-Front
 	url = https://github.com/Grupo-Syntax-Squad/API3-Front.git
+	branch = main
 [submodule "API3-Back"]
 	path = API3-Back
 	url = https://github.com/Grupo-Syntax-Squad/API3-Back.git
+	branch = main
