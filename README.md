@@ -59,9 +59,8 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ## 📅Sprints 
 
-### Sprint - 1️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-1?tab=readme-ov-file))  Em andamento🚧
-
-### Sprint - 2️⃣ 🎯  🚧
+### Sprint - 1️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-1))  Concluído ✅
+### Sprint - 2️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-2)) Em Andamento 🚧
 
 ### Sprint - 3️⃣ 🎯  🚧
 
