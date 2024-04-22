@@ -17,5 +17,9 @@ A quantidade de ativos e destinatários que uma empresa possui pode escalonar a 
 Além da filtragem de dados, o usuário pode cadastrar manutenções para os ativos em uma determinada data e horário, o que garantirá o bom funcionamento do ativo e a prolongação do seu ciclo de vida. Todas as manutenções ficam registradas em um histórico de manutenções, ou seja, o usuário tem controle sobre as manutenções: onde ocorreu, quem foi o responsável, em qual ativo, entre oputras informações.
 
  ## Requisitos
+ - RF 3 - Interface de cadastro de usuários administrativos
  - RF 5 - Monitoramento, controle de localização e responsável pelos ativos
+ - RF 4 - Interface de Cadastro de Manutenção
+ - RF 6 - Histórico de Manutenção
+ - RF 10 - Software Multiusuário
  - RNF 11 - Software Responsivo
