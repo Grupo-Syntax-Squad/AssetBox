@@ -8,6 +8,10 @@
 
 **Status do Projeto: Em andamento🚧**
 
+## 📉Burndown
+
+![image](https://github.com/Grupo-Syntax-Squad/AssetBox/assets/125401155/50e4fedf-34e9-417c-8deb-6723c7bbec11)
+
 </br>
 
 <span id="objetivo">
@@ -30,3 +34,5 @@ Além da filtragem de dados, o usuário pode cadastrar manutenções para os ati
   https://github.com/Grupo-Syntax-Squad/AssetBox/assets/125401155/b8cf92ff-65bf-43c6-b1a3-5ec7bcccb8f6
 
 </div>
+
+
