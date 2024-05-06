@@ -14,7 +14,7 @@
   
 ## 📌Objetivo da Sprint
 A quantidade de ativos e destinatários que uma empresa possui pode escalonar a um nível onde dificulte a procura por um ativo ou por um destinatário em meio há uma tabela com centenas de registros. Nesta Sprint o usuário pode filtrar os dados que deseja visualizar nas tabelas, assim ele encontrará o que quiser em questão de segundos.
-Além da filtragem de dados, o usuário pode cadastrar manutenções para os ativos em uma determinada data e horário, o que garantirá o bom funcionamento do ativo e a prolongação do seu ciclo de vida. Todas as manutenções ficam registradas em um histórico de manutenções, ou seja, o usuário tem controle sobre as manutenções: onde ocorreu, quem foi o responsável, em qual ativo, entre oputras informações.
+Além da filtragem de dados, o usuário pode cadastrar manutenções para os ativos em uma determinada data e horário, o que garantirá o bom funcionamento do ativo e a prolongação do seu ciclo de vida. Todas as manutenções ficam registradas em um histórico de manutenções, ou seja, o usuário tem controle sobre as manutenções: onde ocorreu, quem foi o responsável, em qual ativo, entre outras informações.
 
  ## Requisitos
  - RF 3 - Interface de cadastro de usuários administrativos
@@ -23,3 +23,10 @@ Além da filtragem de dados, o usuário pode cadastrar manutenções para os ati
  - RF 6 - Histórico de Manutenção
  - RF 10 - Software Multiusuário
  - RNF 11 - Software Responsivo
+
+### 🎥 Apresentação do Projeto :
+<div align="center">
+  
+  https://github.com/Grupo-Syntax-Squad/AssetBox/assets/125401155/b8cf92ff-65bf-43c6-b1a3-5ec7bcccb8f6
+
+</div>
