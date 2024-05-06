@@ -60,9 +60,9 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 ## 📅Sprints 
 
 ### Sprint - 1️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-1))  Concluído ✅
-### Sprint - 2️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-2)) Em Andamento 🚧
+### Sprint - 2️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-2)) Concluído ✅
 
-### Sprint - 3️⃣ 🎯  🚧
+### Sprint - 3️⃣ 🎯  Em Andamento 🚧
 
 ### Sprint - 4️⃣ 🎯  🚧
 
