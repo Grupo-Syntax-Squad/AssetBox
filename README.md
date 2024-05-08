@@ -6,7 +6,7 @@
 
 **Início: 15/04 - Fim: 05/05**
 
-**Status do Projeto: Em andamento🚧**
+**Status do Projeto: Concluído✅**
 
 ## 📉Burndown
 
