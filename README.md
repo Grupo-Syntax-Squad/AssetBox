@@ -8,6 +8,10 @@
 
 **Status do Projeto: Em andamento🚧**
 
+## 📉Burndown
+
+<img src= "/documents/img/burndownSprint3.jpg" width="600" alt="Burndown">
+
 </br>
 
 <span id="objetivo">
