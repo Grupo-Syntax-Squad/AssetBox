@@ -21,7 +21,7 @@
 > [!IMPORTANT]
 > O produto tem como objetivo sanar problemas no controle de gestão de ativos de quaisquer empresas que utilizarem o sistema. Nesse sentido, a aplicação deverá conter interfaces para monitoramento, cadastro e controle sobre os ativos também fornecendo opções de delegação e maniupalçaão dos mesmos. Sobretudo é crucial, também, gerar relatórios indicadores emitir noticações à respeito do estado do ativo e cadastrar usuários destinatários para os ativos. 
 
-> **Status do Projeto: Em andamento🚧**
+> **Status do Projeto: Concluído ✅**
 
 
 <span id="visão">
@@ -64,7 +64,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ### Sprint - 3️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-3)) Concluído ✅
 
-### Sprint - 4️⃣ 🎯  🚧
+### Sprint - 4️⃣ 🎯 ([Clique aqui](https://github.com/Grupo-Syntax-Squad/AssetBox/tree/sprint-4)) Concluído ✅
 
 <span id="backlogArtefatos">
   
